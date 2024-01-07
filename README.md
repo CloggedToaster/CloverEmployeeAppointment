@@ -94,7 +94,7 @@ Add additional notes about how to deploy this on a live system.
 ## ✍️ Authors <a name = "authors"></a>
 - [@priyank1968](https://github.com/priyank1968) (Priyank)
 - [@Niravanaa](https://github.com/Niravanaa) (Nirav)
-- [@CloggedToaster](https://github.com/CloggedToaster) (Jason)
+- [@CloggedToaster](https://github.com/CloggedToaster) (Jaysen)
 - [@JustSmit](https://github.com/JustSmit) (Smit)
 - [@1eerp](https://github.com/1eerp) (Preet)
 
